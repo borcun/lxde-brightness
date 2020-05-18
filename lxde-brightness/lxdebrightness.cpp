@@ -1,8 +1,6 @@
 #include "lxdebrightness.h"
 #include "ui_lxdebrightness.h"
-#include <stdio.h>
 #include <stdlib.h>
-#include <QDebug>
 
 //! digit count of brightness value from OS
 #define BRIGHTNESS_DIGIT (8)
